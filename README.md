@@ -10,3 +10,4 @@ I'm a fullstack developer.
 
 - ✉️ [imangazaliev.md@gmail.com](imangazaliev.md@gmail.com)
 - 🔥 [Telegram](https://t.me/MuhammadDoo)
+- 👥 [LinkedIn](https://www.linkedin.com/in/muhammad-imangazaliev/)
