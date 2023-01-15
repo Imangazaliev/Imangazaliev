@@ -4,6 +4,7 @@
 ## My Projects
 
 - [DiDOM](https://github.com/Imangazaliev/DiDOM) - simple and fast HTML and XML parser
+- [Syntax Highlighter Bot](https://github.com/Imangazaliev/syntax-highligter-bot) - A Telegram bot for generating screenshots with highlighted code
 
 ## Social
 
