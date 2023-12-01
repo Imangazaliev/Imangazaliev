@@ -8,6 +8,7 @@
 
 ## Social
 
-- ✉️ [imangazaliev.md@gmail.com](imangazaliev.md@gmail.com)
+- 🌏 [imangazaliev.dev](https://imangazaliev.dev)
 - 🔥 [Telegram](https://t.me/MuhammadDoo)
 - 👥 [LinkedIn](https://www.linkedin.com/in/muhammad-imangazaliev/)
+- ✉️ [imangazaliev.md@gmail.com](imangazaliev.md@gmail.com)
